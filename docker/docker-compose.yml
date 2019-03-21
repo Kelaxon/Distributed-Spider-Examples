@@ -1,0 +1,7 @@
+version: '2'
+services:
+  miliashop_spider:
+    image: kelaxon/redis_spider:v1
+    volumes:
+     - .:/PhilformSpider
+    command: python run_spider.py

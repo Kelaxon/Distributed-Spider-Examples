@@ -1,0 +1,15 @@
+--extra-index-url https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free
+--extra-index-url https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+
+
+scrapy
+html2text
+python-slugify
+qiniu
+redis
+requests
+scrapy-fake-useragent
+scrapy-redis
+sqlalchemy
+Pillow
+pymysql
